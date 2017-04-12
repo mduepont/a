@@ -1,3 +1,3 @@
-const multiply=require("multiply");
-const result=multiply(2,3);
-console.log(result);
+const multiply = require('lodash.multiply');
+
+console.log(multiply(2, 3));
