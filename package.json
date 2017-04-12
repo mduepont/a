@@ -1,5 +1,7 @@
 {
   "name": "my-applications",
   "version": "1.0.0",
+"dependencies": {
+    "lodash.multiply": "^4.9.0"
   }
 }
